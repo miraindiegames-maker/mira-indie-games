@@ -3,6 +3,7 @@
     "id": "com.miraindie.holdfast",
     "name": "Holdfast",
     "tagline": "Survive endless waves with orbital blades.",
+    "icon_url": "https://raw.githubusercontent.com/miraindiegames-maker/mira-indie-games/main/icons/holdfast.png",
     "ios_url": "",
     "android_url": ""
   }
