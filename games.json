@@ -7,5 +7,14 @@
     "screenshot_url": "https://raw.githubusercontent.com/miraindiegames-maker/mira-indie-games/main/screenshots/holdfast.png",
     "ios_url": "",
     "android_url": ""
+  },
+  {
+    "id": "com.miraindie.defendthegrove",
+    "name": "Defend the Grove",
+    "tagline": "Chop wood, build turrets, survive the horde.",
+    "icon_url": "https://raw.githubusercontent.com/miraindiegames-maker/mira-indie-games/main/icons/defend_the_grove.png",
+    "screenshot_url": "https://raw.githubusercontent.com/miraindiegames-maker/mira-indie-games/main/screenshots/defend_the_grove.png",
+    "ios_url": "https://apps.apple.com/us/app/defend-the-grove/id6789217135",
+    "android_url": "https://play.google.com/store/apps/details?id=com.miraindie.dfg&hl=en_US"
   }
 ]
